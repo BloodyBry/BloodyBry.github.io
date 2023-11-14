@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: El Yazidi Adnane # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: El Yazidi Adnane
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.frba3-2.fna.fbcdn.net/v/t39.30808-6/313265940_1350418135766334_223446843775001068_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGCZ5HJS67YDAXK3A77h8e-diY7RxBR1jR2JjtHEFHWNA6-BSisajAHwGN1oSNIRqtl0RWX4yZSDzsutsbUJ74-&_nc_ohc=Ztc_9R5o2qAAX-tprZH&_nc_ht=scontent.frba3-2.fna&oh=00_AfAYKckxbClf7cVbyhQV6kf0-kWO0oSz4R-Lv728dah_Uw&oe=6559282E
 
 # boolean type, the global switch for TOC in posts.
 toc: true
