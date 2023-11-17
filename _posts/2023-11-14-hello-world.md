@@ -15,3 +15,10 @@ As I type away, the words are like simple tunes, expressing how their laughter i
 
 
 ![Desktop View](/assets/img/cc.jpg){: width="300" height="300" }
+
+<p>
+            Linekdin: https://www.linkedin.com/in/adnane-el-yazidi-5b5b75280/
+</p>
+<p>
+            Instagram: "https://www.instagram.com/adnane_leviosa/
+</p>
