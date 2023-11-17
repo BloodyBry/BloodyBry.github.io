@@ -16,7 +16,7 @@ timezone:
 
 title: El Yazidi Adnane # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Exploring Thoughts, Unleashing Creativity # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.frba3-2.fna.fbcdn.net/v/t39.30808-6/313265940_1350418135766334_223446843775001068_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGCZ5HJS67YDAXK3A77h8e-diY7RxBR1jR2JjtHEFHWNA6-BSisajAHwGN1oSNIRqtl0RWX4yZSDzsutsbUJ74-&_nc_ohc=Ztc_9R5o2qAAX-tprZH&_nc_ht=scontent.frba3-2.fna&oh=00_AfAYKckxbClf7cVbyhQV6kf0-kWO0oSz4R-Lv728dah_Uw&oe=6559282E
+avatar: https://scontent.frba2-1.fna.fbcdn.net/v/t39.30808-6/343145386_619615243349039_1253425895863273316_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHluRzbDQbDbt-b3870OEM5ybNxWml1EQbJs3FaaXURBuJH_amyE8yNf1Ec_IVvnSfnW4K94XxcctlhE2J5Do7S&_nc_ohc=0Nn1CCe8hIQAX_j_WDR&_nc_ht=scontent.frba2-1.fna&oh=00_AfC5CSHEagRpsO3GnwtCW2Vn8UkwLNbg65F7IRD1M4z_ag&oe=655CB4FC
 
 # boolean type, the global switch for TOC in posts.
 toc: true
