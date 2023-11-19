@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: El Yazidi Adnane # the main title
+title: Adnane's world # the main title
 
 tagline: Exploring Thoughts, Unleashing Creativity # it will display as the sub-title
 
@@ -29,7 +29,7 @@ github:
   username: BloodyBry # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: adnane_leviosa # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,7 +41,7 @@ social:
     - https://www.instagram.com/adnane_leviosa/ # change to your twitter homepage
     - https://github.com/BloodyBry # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/adnane.elyazidi.773
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string

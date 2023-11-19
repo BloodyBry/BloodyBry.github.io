@@ -9,16 +9,10 @@ tags: [a symphony of feelings]     # TAG names should always be lowercase
 
 In the world of classrooms and lectures, there's this person who's like a bright star in my daily scene. I can't help but feel a certain something..a crush, I guess. It's not just a passing fancy, it's more like a warm, cozy feeling that keeps popping up in my thoughts.
 
-Whenever our eyes meet or there's a shared smile, it's like a little spark of something special. It's not easy to explain, it's just this nice emotion that I can't ignore. So, I thought, why not spill these feelings into the pages of my blog?
+Whenever our eyes meet, it's like a little spark of something special. It's not easy to explain, it's just this nice emotion that I can't ignore. So, I thought, why not spill these feelings into the pages of my blog?
 
-As I type away, the words are like simple tunes, expressing how their laughter is this sweet sound playing in my head. It's like there's this invisible connection weaving through our interactions, and it deserves a place in my simple tale of feelings.
+As I type away, the words are like simple tunes, expressing how her laughter is this sweet sound playing in my head. It's like there's this invisible connection weaving through our little interactions, and it deserves a place in my simple tale of feelings.
 
 
 ![Desktop View](/assets/img/cc.jpg){: width="300" height="300" }
 
-<p>
-            Linekdin: https://www.linkedin.com/in/adnane-el-yazidi-5b5b75280/
-</p>
-<p>
-            Instagram: "https://www.instagram.com/adnane_leviosa/
-</p>

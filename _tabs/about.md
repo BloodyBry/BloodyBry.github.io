@@ -21,3 +21,6 @@ Blogging isn't just about sharing, it's a two-way street. I'd love to hear your 
 
 ![Desktop View](/assets/img/kk.png){: width="700" height="400" }
 
+
+Follow me on [Instagram](https://www.instagram.com/adnane_leviosa/) and [Linkedin](https://www.linkedin.com/in/adnane-el-yazidi-5b5b75280/)
+
