@@ -7,7 +7,7 @@ tags: [sudden loss]     # TAG names should always be lowercase
 
 # Sudden loss
 
-It was October 15, 2023, my mom's birthday. Mom was at work, my sister and i were preparing to make a birthday surprise to her, it was 16:00 in the afternoon, sitting by myself, watching a movie. Suddenly, a weird feeling, never felt that, panicking without a reason, for goodness'sake what is hapenning to me?, i was home alone, feeling overwhelmed from nowhere.
+It was September 14, 2023. Mom and dad were at work, it was 16:00 in the afternoon, sitting by myself, watching a movie. Suddenly, a weird feeling, never felt that, panicking without a reason, for goodness'sake what is hapenning to me?, i was home alone, feeling overwhelmed from nowhere.
 
 Suddenly, i heard the phone ringing, it was my dad calling, i answerd the phone…"hey son, you're mom at home? "with a shaking voice…"no, she's not, why you're asking? Is she okay?"…" why you're panicking son, i'm just checking on her because sh's not responding to her phone, when she comes home tell her to call me"…"okay dad, bye"….
 
