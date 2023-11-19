@@ -15,7 +15,7 @@ Still feeling the unwanted feelings, suddenly i remembered my grandmother, Tamim
 
 The news hit me like a tidal wave. My mind raced, trying to process the information that my cousin had just shared. Tamimount, my beloved grandmother, had passed away. A flood of emotions surged through me, leaving me paralyzed for a moment.
 
-Tamimount, with her warm smile and comforting presence, had always been a pillar of strength for our family. The connection between the strange feelings I had earlier and my dad's call now seemed significant. It was as if some inexplicable force had alerted me to this tragedy.
+Tamimount, with her warm smile and comforting presence,  had always been a strong support for our family.. The connection between the strange feelings I had earlier and my dad's call now seemed significant. It was as if some inexplicable force had alerted me to this tragedy.
 
 My cousin's voice cracked as she shared the details of my grandmother's passing. I struggled to find words, my throat tightened, and tears welled up in my eyes. The depersonalization I felt earlier intensified, as if I were caught in a surreal dream that I couldn't escape.
 
