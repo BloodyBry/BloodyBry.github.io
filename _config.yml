@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.frba2-1.fna.fbcdn.net/v/t39.30808-6/343145386_619615243349039_1253425895863273316_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHluRzbDQbDbt-b3870OEM5ybNxWml1EQbJs3FaaXURBuJH_amyE8yNf1Ec_IVvnSfnW4K94XxcctlhE2J5Do7S&_nc_ohc=0Nn1CCe8hIQAX_j_WDR&_nc_ht=scontent.frba2-1.fna&oh=00_AfC5CSHEagRpsO3GnwtCW2Vn8UkwLNbg65F7IRD1M4z_ag&oe=655CB4FC
+avatar: /assets/img/aa.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
