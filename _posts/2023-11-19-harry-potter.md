@@ -5,7 +5,7 @@ categories: [Learning Code Magic]
 tags: [learning code magic]     # TAG names should always be lowercase
 ---
 
-![Desktop View](/assets/img/ee.jpg){: width="500" height="100" }
+![Desktop View](/assets/img/ee.jpg){: width="450" height="85" }
 
 growing up, very few pieces of literature caught my attention, and the ones that did, made sure to mark my personnality probably forever, and today I am here to talk about harry potter, not just about the fact that my instagram handle is @adnane_leviosa (no joke you can look it up) but also about the lessons I learned from Harry and his friends who greatly influenced my journey as a computer science student.
 
